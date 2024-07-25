@@ -8,17 +8,17 @@ The Plant CO. Gross Performance Project is a comprehensive Power BI dashboard de
 *    Selection Box: Filter data according to Gross Profit, Quantity, and Sales.
 
 ## Visualizations
-*    YTD, YTD vs PYTD, PYTD, and GP% Values: Display key financial metrics for the selected year.
-*    Bottom 10 YTD vs PYTD Country Chart: Visualize the bottom 10 countries based on their YTD vs PYTD performance.
-*    Gross Profit YTD vs PYTD Bar Graph:
+1.    YTD, YTD vs PYTD, PYTD, and GP% Values: Display key financial metrics for the selected year.
+2.    Bottom 10 YTD vs PYTD Country Chart: Visualize the bottom 10 countries based on their YTD vs PYTD performance.
+3.   Gross Profit YTD vs PYTD Bar Graph:
   
-  1. Green Bars: Indicate an increase.
-  2. Red Bars: Indicate a decrease.
-  3 Blue Bars: Indicate the total.
-  4. Drill-Down Capability: Drill down to view detailed information by Month, Country, and Product.
+  *     Green Bars: Indicate an increase.
+  *     Red Bars: Indicate a decrease.
+  *     Blue Bars: Indicate the total.
+  *     Drill-Down Capability: Drill down to view detailed information by Month, Country, and Product.
   
-*    Line and Bar Graph for Gross Profit YTD and PYTD by Month: Compare gross profit values over the months of the year.
-*    Scatter Plot for Account Profitability Segmentation: Visualize account profitability by GP% and Quantity.
+4.    Line and Bar Graph for Gross Profit YTD and PYTD by Month: Compare gross profit values over the months of the year.
+5.   Scatter Plot for Account Profitability Segmentation: Visualize account profitability by GP% and Quantity.
 
 ## Key Insights
 ## Current Year Analysis (2024):
